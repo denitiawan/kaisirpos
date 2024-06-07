@@ -1,5 +1,5 @@
 ## information
-Point of Sales mobile made using (java android) admin made using (react js) and backend using (springboot)
+Point of Sales web application build using (reactjs, springboot) and for cicd using (github action, docker, kubernetes, argocd)
 
 ## url
 https://github.com/kaisirpos
