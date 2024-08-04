@@ -1,5 +1,7 @@
 # KaisirPOS
 Web Application for Point of Sales (POS)
+### Link
+[https://github.com/kaisirpos](https://github.com/kaisirpos)
 
 ### Technologies
 - **backend** `Springboot 2`
