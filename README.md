@@ -1,5 +1,5 @@
 ## information
-Point of Sales web application build using (reactjs, springboot) and for cicd using (github action, docker, kubernetes, argocd)
+Example of POS app build using react js & springboot 2
 
 ## url
 https://github.com/kaisirpos
